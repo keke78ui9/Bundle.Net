@@ -6,7 +6,9 @@ using System.Threading.Tasks;
 
 namespace BundleNet
 {
-    public class Class1
+    public enum MinifyType
     {
+        Javascript,
+        Css
     }
 }

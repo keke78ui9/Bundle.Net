@@ -1,7 +1,8 @@
-#Pack
+#BundleNet
 
-## About Pack
-Bundle.Net is class library provide feature for javascript and css bundling and minification for .net.
+## About BundleNet
+BundleNet is class library provide feature for javascript and css bundling and minification for .net.
+Instead of define bundle at C# backend side, GlobalBundle. I'd like to define bundle at razor side.
 
 ## Features
 
